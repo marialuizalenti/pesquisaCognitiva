@@ -1,0 +1,9 @@
+{
+    "ServiceName" :  "[tipucmg]",
+    "ApiKey" : "[8eNUkw6OpTRPtS3tJvlyY2gZkluJmmPjvUY4P8R70oAzSeCLomzE]",
+    "IndexName" : "hotels",
+    "IndexerName" : "hotels-indexer",
+    "ApiVersion" : "2019-05-06",
+    "DatasourceName" : "hotels-datasource",
+    "EndPoint" : "https://%s.search.windows.net"
+}
